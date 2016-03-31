@@ -1,0 +1,9 @@
+'use strict';
+
+ReactDOM.render(React.createElement(
+  'h1',
+  null,
+  'Hello, world!'
+), document.getElementById('example'));
+"use strict";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlbGxvd29ybGQuanN4IiwiYXBwLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsU0FBUyxNQUFULENBQ0U7Ozs7Q0FERixFQUVFLFNBQVMsY0FBVCxDQUF3QixTQUF4QixDQUZGO0FDQUEiLCJmaWxlIjoicmVhY3RBcHAuanMiLCJzb3VyY2VzQ29udGVudCI6WyJSZWFjdERPTS5yZW5kZXIoXHJcbiAgPGgxPkhlbGxvLCB3b3JsZCE8L2gxPixcclxuICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXhhbXBsZScpXHJcbik7XHJcbiIsbnVsbF0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
