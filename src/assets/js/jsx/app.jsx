@@ -1,13 +1,20 @@
-var CommentBox = React.createClass({displayName: 'CommentBox',
+// tutorial1.js
+var TopBar = React.createClass({
   render: function() {
     return (
-      React.createElement('div', {className: "commentBox"},
-        "Hello, world! I am a CommentBox."
-      )
+      <div className="top-bar">
+        <div className="top-bar-right">
+          <ul className="menu">
+            <li>
+              <a>LINK</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     );
   }
 });
 ReactDOM.render(
-  React.createElement(CommentBox, null),
-  document.getElementById('example')
+  <TopBar />,
+  document.getElementById('content')
 );

@@ -23,6 +23,7 @@ PATHS:
     - "src/assets/**/*"
     - "!src/assets/{img,js,scss}/**/*"
     - "!src/assets/js/jsx/**/*"
+    - "!src/assets/js/reactApp.js"
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "bower_components/foundation-sites/scss"
